@@ -1,0 +1,1301 @@
+[{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc70"
+  },
+  "Name": "GB200",
+  "TenGiuong": "Giường 0",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc0c"
+    },
+    "Name": "local",
+    "SipCode": "200"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc71"
+  },
+  "Name": "GB201",
+  "TenGiuong": "Giường 1",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc0d"
+    },
+    "Name": "local",
+    "SipCode": "201"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc72"
+  },
+  "Name": "GB202",
+  "TenGiuong": "Giường 2",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc0e"
+    },
+    "Name": "local",
+    "SipCode": "202"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc73"
+  },
+  "Name": "GB203",
+  "TenGiuong": "Giường 3",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc0f"
+    },
+    "Name": "local",
+    "SipCode": "203"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc74"
+  },
+  "Name": "GB204",
+  "TenGiuong": "Giường 4",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc10"
+    },
+    "Name": "local",
+    "SipCode": "204"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc75"
+  },
+  "Name": "GB205",
+  "TenGiuong": "Giường 5",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc11"
+    },
+    "Name": "local",
+    "SipCode": "205"
+  }
+},{
+  "_id": {
+    "$oid": "614edc54212337c0b24afc76"
+  },
+  "Name": "GB206",
+  "TenGiuong": "Giường 6",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc12"
+    },
+    "Name": "local",
+    "SipCode": "206"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc77"
+  },
+  "Name": "GB207",
+  "TenGiuong": "Giường 7",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc13"
+    },
+    "Name": "local",
+    "SipCode": "207"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc78"
+  },
+  "Name": "GB208",
+  "TenGiuong": "Giường 8",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc14"
+    },
+    "Name": "local",
+    "SipCode": "208"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc79"
+  },
+  "Name": "GB209",
+  "TenGiuong": "Giường 9",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc15"
+    },
+    "Name": "local",
+    "SipCode": "209"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7a"
+  },
+  "Name": "GB210",
+  "TenGiuong": "Giường 10",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc16"
+    },
+    "Name": "local",
+    "SipCode": "210"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7b"
+  },
+  "Name": "GB211",
+  "TenGiuong": "Giường 11",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc17"
+    },
+    "Name": "local",
+    "SipCode": "211"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7c"
+  },
+  "Name": "GB212",
+  "TenGiuong": "Giường 12",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc18"
+    },
+    "Name": "local",
+    "SipCode": "212"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7d"
+  },
+  "Name": "GB213",
+  "TenGiuong": "Giường 13",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc19"
+    },
+    "Name": "local",
+    "SipCode": "213"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7e"
+  },
+  "Name": "GB214",
+  "TenGiuong": "Giường 14",
+  "ThietBi": {
+    "_id": {
+      "$oid": "6151253ad73827decd61536e"
+    },
+    "Name": "global",
+    "SipCode": "800"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc7f"
+  },
+  "Name": "GB215",
+  "TenGiuong": "Giường 15",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc1b"
+    },
+    "Name": "local",
+    "SipCode": "215"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc80"
+  },
+  "Name": "GB216",
+  "TenGiuong": "Giường 16",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc1c"
+    },
+    "Name": "local",
+    "SipCode": "216"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc81"
+  },
+  "Name": "GB217",
+  "TenGiuong": "Giường 17",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc1d"
+    },
+    "Name": "local",
+    "SipCode": "217"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc82"
+  },
+  "Name": "GB218",
+  "TenGiuong": "Giường 18",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc1e"
+    },
+    "Name": "local",
+    "SipCode": "218"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc83"
+  },
+  "Name": "GB219",
+  "TenGiuong": "Giường 19",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc1f"
+    },
+    "Name": "local",
+    "SipCode": "219"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc84"
+  },
+  "Name": "GB220",
+  "TenGiuong": "Giường 20",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc20"
+    },
+    "Name": "local",
+    "SipCode": "220"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc85"
+  },
+  "Name": "GB221",
+  "TenGiuong": "Giường 21",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc21"
+    },
+    "Name": "local",
+    "SipCode": "221"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc86"
+  },
+  "Name": "GB222",
+  "TenGiuong": "Giường 22",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc22"
+    },
+    "Name": "local",
+    "SipCode": "222"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc87"
+  },
+  "Name": "GB223",
+  "TenGiuong": "Giường 23",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc23"
+    },
+    "Name": "local",
+    "SipCode": "223"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc88"
+  },
+  "Name": "GB224",
+  "TenGiuong": "Giường 24",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc24"
+    },
+    "Name": "local",
+    "SipCode": "224"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc89"
+  },
+  "Name": "GB225",
+  "TenGiuong": "Giường 25",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc25"
+    },
+    "Name": "local",
+    "SipCode": "225"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8a"
+  },
+  "Name": "GB226",
+  "TenGiuong": "Giường 26",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc26"
+    },
+    "Name": "local",
+    "SipCode": "226"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8b"
+  },
+  "Name": "GB227",
+  "TenGiuong": "Giường 27",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc27"
+    },
+    "Name": "local",
+    "SipCode": "227"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8c"
+  },
+  "Name": "GB228",
+  "TenGiuong": "Giường 28",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc28"
+    },
+    "Name": "local",
+    "SipCode": "228"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8d"
+  },
+  "Name": "GB229",
+  "TenGiuong": "Giường 29",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc29"
+    },
+    "Name": "local",
+    "SipCode": "229"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8e"
+  },
+  "Name": "GB230",
+  "TenGiuong": "Giường 30",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2a"
+    },
+    "Name": "local",
+    "SipCode": "230"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc8f"
+  },
+  "Name": "GB231",
+  "TenGiuong": "Giường 31",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2b"
+    },
+    "Name": "local",
+    "SipCode": "231"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc90"
+  },
+  "Name": "GB232",
+  "TenGiuong": "Giường 32",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2c"
+    },
+    "Name": "local",
+    "SipCode": "232"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc91"
+  },
+  "Name": "GB233",
+  "TenGiuong": "Giường 33",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2d"
+    },
+    "Name": "local",
+    "SipCode": "233"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc92"
+  },
+  "Name": "GB234",
+  "TenGiuong": "Giường 34",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2e"
+    },
+    "Name": "local",
+    "SipCode": "234"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc93"
+  },
+  "Name": "GB235",
+  "TenGiuong": "Giường 35",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc2f"
+    },
+    "Name": "local",
+    "SipCode": "235"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc94"
+  },
+  "Name": "GB236",
+  "TenGiuong": "Giường 36",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc30"
+    },
+    "Name": "local",
+    "SipCode": "236"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc95"
+  },
+  "Name": "GB237",
+  "TenGiuong": "Giường 37",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc31"
+    },
+    "Name": "local",
+    "SipCode": "237"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc96"
+  },
+  "Name": "GB238",
+  "TenGiuong": "Giường 38",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc32"
+    },
+    "Name": "local",
+    "SipCode": "238"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc97"
+  },
+  "Name": "GB239",
+  "TenGiuong": "Giường 39",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc33"
+    },
+    "Name": "local",
+    "SipCode": "239"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc98"
+  },
+  "Name": "GB240",
+  "TenGiuong": "Giường 40",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc34"
+    },
+    "Name": "local",
+    "SipCode": "240"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc99"
+  },
+  "Name": "GB241",
+  "TenGiuong": "Giường 41",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc35"
+    },
+    "Name": "local",
+    "SipCode": "241"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9a"
+  },
+  "Name": "GB242",
+  "TenGiuong": "Giường 42",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc36"
+    },
+    "Name": "local",
+    "SipCode": "242"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9b"
+  },
+  "Name": "GB243",
+  "TenGiuong": "Giường 43",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc37"
+    },
+    "Name": "local",
+    "SipCode": "243"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9c"
+  },
+  "Name": "GB244",
+  "TenGiuong": "Giường 44",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc38"
+    },
+    "Name": "local",
+    "SipCode": "244"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9d"
+  },
+  "Name": "GB245",
+  "TenGiuong": "Giường 45",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc39"
+    },
+    "Name": "local",
+    "SipCode": "245"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9e"
+  },
+  "Name": "GB246",
+  "TenGiuong": "Giường 46",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3a"
+    },
+    "Name": "local",
+    "SipCode": "246"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afc9f"
+  },
+  "Name": "GB247",
+  "TenGiuong": "Giường 47",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3b"
+    },
+    "Name": "local",
+    "SipCode": "247"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca0"
+  },
+  "Name": "GB248",
+  "TenGiuong": "Giường 48",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3c"
+    },
+    "Name": "local",
+    "SipCode": "248"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca1"
+  },
+  "Name": "GB249",
+  "TenGiuong": "Giường 49",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3d"
+    },
+    "Name": "local",
+    "SipCode": "249"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca2"
+  },
+  "Name": "GB250",
+  "TenGiuong": "Giường 50",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3e"
+    },
+    "Name": "local",
+    "SipCode": "250"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca3"
+  },
+  "Name": "GB251",
+  "TenGiuong": "Giường 51",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc3f"
+    },
+    "Name": "local",
+    "SipCode": "251"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca4"
+  },
+  "Name": "GB252",
+  "TenGiuong": "Giường 52",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc40"
+    },
+    "Name": "local",
+    "SipCode": "252"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca5"
+  },
+  "Name": "GB253",
+  "TenGiuong": "Giường 53",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc41"
+    },
+    "Name": "local",
+    "SipCode": "253"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca6"
+  },
+  "Name": "GB254",
+  "TenGiuong": "Giường 54",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc42"
+    },
+    "Name": "local",
+    "SipCode": "254"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca7"
+  },
+  "Name": "GB255",
+  "TenGiuong": "Giường 55",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc43"
+    },
+    "Name": "local",
+    "SipCode": "255"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca8"
+  },
+  "Name": "GB256",
+  "TenGiuong": "Giường 56",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc44"
+    },
+    "Name": "local",
+    "SipCode": "256"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afca9"
+  },
+  "Name": "GB257",
+  "TenGiuong": "Giường 57",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc45"
+    },
+    "Name": "local",
+    "SipCode": "257"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcaa"
+  },
+  "Name": "GB258",
+  "TenGiuong": "Giường 58",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc46"
+    },
+    "Name": "local",
+    "SipCode": "258"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcab"
+  },
+  "Name": "GB259",
+  "TenGiuong": "Giường 59",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc47"
+    },
+    "Name": "local",
+    "SipCode": "259"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcac"
+  },
+  "Name": "GB260",
+  "TenGiuong": "Giường 60",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc48"
+    },
+    "Name": "local",
+    "SipCode": "260"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcad"
+  },
+  "Name": "GB261",
+  "TenGiuong": "Giường 61",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc49"
+    },
+    "Name": "local",
+    "SipCode": "261"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcae"
+  },
+  "Name": "GB262",
+  "TenGiuong": "Giường 62",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4a"
+    },
+    "Name": "local",
+    "SipCode": "262"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcaf"
+  },
+  "Name": "GB263",
+  "TenGiuong": "Giường 63",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4b"
+    },
+    "Name": "local",
+    "SipCode": "263"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb0"
+  },
+  "Name": "GB264",
+  "TenGiuong": "Giường 64",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4c"
+    },
+    "Name": "local",
+    "SipCode": "264"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb1"
+  },
+  "Name": "GB265",
+  "TenGiuong": "Giường 65",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4d"
+    },
+    "Name": "local",
+    "SipCode": "265"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb2"
+  },
+  "Name": "GB266",
+  "TenGiuong": "Giường 66",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4e"
+    },
+    "Name": "local",
+    "SipCode": "266"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb3"
+  },
+  "Name": "GB267",
+  "TenGiuong": "Giường 67",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc4f"
+    },
+    "Name": "local",
+    "SipCode": "267"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb4"
+  },
+  "Name": "GB268",
+  "TenGiuong": "Giường 68",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc50"
+    },
+    "Name": "local",
+    "SipCode": "268"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb5"
+  },
+  "Name": "GB269",
+  "TenGiuong": "Giường 69",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc51"
+    },
+    "Name": "local",
+    "SipCode": "269"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb6"
+  },
+  "Name": "GB270",
+  "TenGiuong": "Giường 70",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc52"
+    },
+    "Name": "local",
+    "SipCode": "270"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb7"
+  },
+  "Name": "GB271",
+  "TenGiuong": "Giường 71",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc53"
+    },
+    "Name": "local",
+    "SipCode": "271"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb8"
+  },
+  "Name": "GB272",
+  "TenGiuong": "Giường 72",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc54"
+    },
+    "Name": "local",
+    "SipCode": "272"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcb9"
+  },
+  "Name": "GB273",
+  "TenGiuong": "Giường 73",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc55"
+    },
+    "Name": "local",
+    "SipCode": "273"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcba"
+  },
+  "Name": "GB274",
+  "TenGiuong": "Giường 74",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc56"
+    },
+    "Name": "local",
+    "SipCode": "274"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcbb"
+  },
+  "Name": "GB275",
+  "TenGiuong": "Giường 75",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc57"
+    },
+    "Name": "local",
+    "SipCode": "275"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcbc"
+  },
+  "Name": "GB276",
+  "TenGiuong": "Giường 76",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc58"
+    },
+    "Name": "local",
+    "SipCode": "276"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcbd"
+  },
+  "Name": "GB277",
+  "TenGiuong": "Giường 77",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc59"
+    },
+    "Name": "local",
+    "SipCode": "277"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcbe"
+  },
+  "Name": "GB278",
+  "TenGiuong": "Giường 78",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5a"
+    },
+    "Name": "local",
+    "SipCode": "278"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcbf"
+  },
+  "Name": "GB279",
+  "TenGiuong": "Giường 79",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5b"
+    },
+    "Name": "local",
+    "SipCode": "279"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc0"
+  },
+  "Name": "GB280",
+  "TenGiuong": "Giường 80",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5c"
+    },
+    "Name": "local",
+    "SipCode": "280"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc1"
+  },
+  "Name": "GB281",
+  "TenGiuong": "Giường 81",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5d"
+    },
+    "Name": "local",
+    "SipCode": "281"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc2"
+  },
+  "Name": "GB282",
+  "TenGiuong": "Giường 82",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5e"
+    },
+    "Name": "local",
+    "SipCode": "282"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc3"
+  },
+  "Name": "GB283",
+  "TenGiuong": "Giường 83",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc5f"
+    },
+    "Name": "local",
+    "SipCode": "283"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc4"
+  },
+  "Name": "GB284",
+  "TenGiuong": "Giường 84",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc60"
+    },
+    "Name": "local",
+    "SipCode": "284"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc5"
+  },
+  "Name": "GB285",
+  "TenGiuong": "Giường 85",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc61"
+    },
+    "Name": "local",
+    "SipCode": "285"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc6"
+  },
+  "Name": "GB286",
+  "TenGiuong": "Giường 86",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc62"
+    },
+    "Name": "local",
+    "SipCode": "286"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc7"
+  },
+  "Name": "GB287",
+  "TenGiuong": "Giường 87",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc63"
+    },
+    "Name": "local",
+    "SipCode": "287"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc8"
+  },
+  "Name": "GB288",
+  "TenGiuong": "Giường 88",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc64"
+    },
+    "Name": "local",
+    "SipCode": "288"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcc9"
+  },
+  "Name": "GB289",
+  "TenGiuong": "Giường 89",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc65"
+    },
+    "Name": "local",
+    "SipCode": "289"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcca"
+  },
+  "Name": "GB290",
+  "TenGiuong": "Giường 90",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc66"
+    },
+    "Name": "local",
+    "SipCode": "290"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afccb"
+  },
+  "Name": "GB291",
+  "TenGiuong": "Giường 91",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc67"
+    },
+    "Name": "local",
+    "SipCode": "291"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afccc"
+  },
+  "Name": "GB292",
+  "TenGiuong": "Giường 92",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc68"
+    },
+    "Name": "local",
+    "SipCode": "292"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afccd"
+  },
+  "Name": "GB293",
+  "TenGiuong": "Giường 93",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc69"
+    },
+    "Name": "local",
+    "SipCode": "293"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcce"
+  },
+  "Name": "GB294",
+  "TenGiuong": "Giường 94",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6a"
+    },
+    "Name": "local",
+    "SipCode": "294"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afccf"
+  },
+  "Name": "GB295",
+  "TenGiuong": "Giường 95",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6b"
+    },
+    "Name": "local",
+    "SipCode": "295"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd0"
+  },
+  "Name": "GB296",
+  "TenGiuong": "Giường 96",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6c"
+    },
+    "Name": "local",
+    "SipCode": "296"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd1"
+  },
+  "Name": "GB297",
+  "TenGiuong": "Giường 97",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6d"
+    },
+    "Name": "local",
+    "SipCode": "297"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd2"
+  },
+  "Name": "GB298",
+  "TenGiuong": "Giường 98",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6e"
+    },
+    "Name": "local",
+    "SipCode": "298"
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd3"
+  },
+  "Name": "GB299",
+  "TenGiuong": "Giường 99",
+  "ThietBi": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc6f"
+    },
+    "Name": "local",
+    "SipCode": "299"
+  }
+}]

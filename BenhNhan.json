@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd4"
+  },
+  "Name": "BN0",
+  "TenBenhNhan": "Phạm Thị Như Quỳnh",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc70"
+    },
+    "Name": "GB200",
+    "TenGiuong": "Giường 0",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc0c"
+      },
+      "Name": "local",
+      "SipCode": "200"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd5"
+  },
+  "Name": "BN1",
+  "TenBenhNhan": "Trần Thị Yến Nhi",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc71"
+    },
+    "Name": "GB201",
+    "TenGiuong": "Giường 1",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc0d"
+      },
+      "Name": "local",
+      "SipCode": "201"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd6"
+  },
+  "Name": "BN2",
+  "TenBenhNhan": "Trần Tùng Chi",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc72"
+    },
+    "Name": "GB202",
+    "TenGiuong": "Giường 2",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc0e"
+      },
+      "Name": "local",
+      "SipCode": "202"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcd7"
+  },
+  "Name": "BN3",
+  "TenBenhNhan": "Lê Thị Phương Thảo",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc54212337c0b24afc73"
+    },
+    "Name": "GB203",
+    "TenGiuong": "Giường 3",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc0f"
+      },
+      "Name": "local",
+      "SipCode": "203"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afcdf"
+  },
+  "Name": "BN11",
+  "TenBenhNhan": "Đỗ Trần Minh Anh",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc55212337c0b24afc7e"
+    },
+    "Name": "GB214",
+    "TenGiuong": "Giường 14",
+    "ThietBi": {
+      "_id": {
+        "$oid": "6151253ad73827decd61536e"
+      },
+      "Name": "global",
+      "SipCode": "800"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afce0"
+  },
+  "Name": "BN12",
+  "TenBenhNhan": "Ngô Bào An",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc55212337c0b24afc7c"
+    },
+    "Name": "GB212",
+    "TenGiuong": "Giường 12",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc18"
+      },
+      "Name": "local",
+      "SipCode": "212"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614edc55212337c0b24afce1"
+  },
+  "Name": "BN13",
+  "TenBenhNhan": "Nguyên Mạnh Trí",
+  "Giuong": {
+    "_id": {
+      "$oid": "614edc55212337c0b24afc7d"
+    },
+    "Name": "GB213",
+    "TenGiuong": "Giường 13",
+    "ThietBi": {
+      "_id": {
+        "$oid": "614edc54212337c0b24afc19"
+      },
+      "Name": "local",
+      "SipCode": "213"
+    }
+  }
+}]

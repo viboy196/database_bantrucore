@@ -1,0 +1,456 @@
+[{
+  "_id": {
+    "$oid": "614edc55212337c0b24afce9"
+  },
+  "Name": "Nhomtruc01",
+  "tennhomtruc": "Nhóm Trực 01",
+  "listphongbenh": [
+    {
+      "_id": {
+        "$oid": "614edc55212337c0b24afce4"
+      },
+      "Name": "PB1",
+      "tenphongbenh": "Phòng Bệnh 01",
+      "listGiuongBenh": [
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc70"
+          },
+          "Name": "GB200",
+          "TenGiuong": "Giường 0",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc0c"
+            },
+            "Name": "local",
+            "SipCode": "200"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc71"
+          },
+          "Name": "GB201",
+          "TenGiuong": "Giường 1",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc0d"
+            },
+            "Name": "local",
+            "SipCode": "201"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc72"
+          },
+          "Name": "GB202",
+          "TenGiuong": "Giường 2",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc0e"
+            },
+            "Name": "local",
+            "SipCode": "202"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc73"
+          },
+          "Name": "GB203",
+          "TenGiuong": "Giường 3",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc0f"
+            },
+            "Name": "local",
+            "SipCode": "203"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc74"
+          },
+          "Name": "GB204",
+          "TenGiuong": "Giường 4",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc10"
+            },
+            "Name": "local",
+            "SipCode": "204"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc75"
+          },
+          "Name": "GB205",
+          "TenGiuong": "Giường 5",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc11"
+            },
+            "Name": "local",
+            "SipCode": "205"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc54212337c0b24afc76"
+          },
+          "Name": "GB206",
+          "TenGiuong": "Giường 6",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc12"
+            },
+            "Name": "local",
+            "SipCode": "206"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc77"
+          },
+          "Name": "GB207",
+          "TenGiuong": "Giường 7",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc13"
+            },
+            "Name": "local",
+            "SipCode": "207"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc78"
+          },
+          "Name": "GB208",
+          "TenGiuong": "Giường 8",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc14"
+            },
+            "Name": "local",
+            "SipCode": "208"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc79"
+          },
+          "Name": "GB209",
+          "TenGiuong": "Giường 9",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc15"
+            },
+            "Name": "local",
+            "SipCode": "209"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "614edc55212337c0b24afce5"
+      },
+      "Name": "PB2",
+      "tenphongbenh": "Phòng Bệnh 02",
+      "listGiuongBenh": [
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7a"
+          },
+          "Name": "GB210",
+          "TenGiuong": "Giường 10",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc16"
+            },
+            "Name": "local",
+            "SipCode": "210"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7b"
+          },
+          "Name": "GB211",
+          "TenGiuong": "Giường 11",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc17"
+            },
+            "Name": "local",
+            "SipCode": "211"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7c"
+          },
+          "Name": "GB212",
+          "TenGiuong": "Giường 12",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc18"
+            },
+            "Name": "local",
+            "SipCode": "212"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7d"
+          },
+          "Name": "GB213",
+          "TenGiuong": "Giường 13",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc19"
+            },
+            "Name": "local",
+            "SipCode": "213"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7e"
+          },
+          "Name": "GB214",
+          "TenGiuong": "Giường 14",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1a"
+            },
+            "Name": "local",
+            "SipCode": "214"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc7f"
+          },
+          "Name": "GB215",
+          "TenGiuong": "Giường 15",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1b"
+            },
+            "Name": "local",
+            "SipCode": "215"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc80"
+          },
+          "Name": "GB216",
+          "TenGiuong": "Giường 16",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1c"
+            },
+            "Name": "local",
+            "SipCode": "216"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc81"
+          },
+          "Name": "GB217",
+          "TenGiuong": "Giường 17",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1d"
+            },
+            "Name": "local",
+            "SipCode": "217"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc82"
+          },
+          "Name": "GB218",
+          "TenGiuong": "Giường 18",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1e"
+            },
+            "Name": "local",
+            "SipCode": "218"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc83"
+          },
+          "Name": "GB219",
+          "TenGiuong": "Giường 19",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc1f"
+            },
+            "Name": "local",
+            "SipCode": "219"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "614edc55212337c0b24afce6"
+      },
+      "Name": "PB3",
+      "tenphongbenh": "Phòng Bệnh 03",
+      "listGiuongBenh": [
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc84"
+          },
+          "Name": "GB220",
+          "TenGiuong": "Giường 20",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc20"
+            },
+            "Name": "local",
+            "SipCode": "220"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc85"
+          },
+          "Name": "GB221",
+          "TenGiuong": "Giường 21",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc21"
+            },
+            "Name": "local",
+            "SipCode": "221"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc86"
+          },
+          "Name": "GB222",
+          "TenGiuong": "Giường 22",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc22"
+            },
+            "Name": "local",
+            "SipCode": "222"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc87"
+          },
+          "Name": "GB223",
+          "TenGiuong": "Giường 23",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc23"
+            },
+            "Name": "local",
+            "SipCode": "223"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc88"
+          },
+          "Name": "GB224",
+          "TenGiuong": "Giường 24",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc24"
+            },
+            "Name": "local",
+            "SipCode": "224"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc89"
+          },
+          "Name": "GB225",
+          "TenGiuong": "Giường 25",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc25"
+            },
+            "Name": "local",
+            "SipCode": "225"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc8a"
+          },
+          "Name": "GB226",
+          "TenGiuong": "Giường 26",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc26"
+            },
+            "Name": "local",
+            "SipCode": "226"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc8b"
+          },
+          "Name": "GB227",
+          "TenGiuong": "Giường 27",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc27"
+            },
+            "Name": "local",
+            "SipCode": "227"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc8c"
+          },
+          "Name": "GB228",
+          "TenGiuong": "Giường 28",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc28"
+            },
+            "Name": "local",
+            "SipCode": "228"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "614edc55212337c0b24afc8d"
+          },
+          "Name": "GB229",
+          "TenGiuong": "Giường 29",
+          "ThietBi": {
+            "_id": {
+              "$oid": "614edc54212337c0b24afc29"
+            },
+            "Name": "local",
+            "SipCode": "229"
+          }
+        }
+      ]
+    }
+  ]
+}]

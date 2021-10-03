@@ -1,0 +1,1303 @@
+[{
+  "_id": {
+    "$oid": "61513c89e533b6a3f275b646"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "10:37:45",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 10h37m39s Thời lượng :5s"
+  ]
+},{
+  "_id": {
+    "$oid": "61513ca2e533b6a3f275b647"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "10:38:10",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 10h38m7s Thời lượng :2s"
+  ]
+},{
+  "_id": {
+    "$oid": "61513cb9e533b6a3f275b648"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "10:38:33",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 10h38m21s Thời lượng :12s"
+  ]
+},{
+  "_id": {
+    "$oid": "61516018743f7f1f9721e5dc"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:09:28",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:09:28 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "61516cd3743f7f1f9721e5dd"
+  },
+  "Name": 123,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:03:47",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:03:47 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "61516d2e3665aa3501adb090"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:05:18",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h5m1s Thời lượng :16s"
+  ]
+},{
+  "_id": {
+    "$oid": "615170173665aa3501adb091"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:17:43",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:17:43 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "61524779691408a6de483c1d"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "5:36:41",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 5:36:41 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "61524968e667537fbb697f85"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "5:44:56",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 5:44:56 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "61524bd65d53f507bacbddbe"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "5:55:18",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 5:55:18 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "61524c62fc0e422f5a5bf23d"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "5:57:38",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 5:57:38 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "61524f1a8f33302b8c8abf19"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:09:14",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:09:14 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "615251778f33302b8c8abf1a"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:19:19",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:19:19 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152517d8f33302b8c8abf1b"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:19:25",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:19:25 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152517e8f33302b8c8abf1c"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:19:26",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:19:26 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "615251e38f33302b8c8abf1d"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:21:07",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:21:07 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "615251e78f33302b8c8abf1e"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:21:11",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:21:11 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "615251ec8f33302b8c8abf1f"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "6:21:16",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:21:16 AM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b4768f33302b8c8abf20"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "1:21:42",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:21:42 PM",
+    "Gọi lại bệnh nhân : 13h22m0s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b4aa8f33302b8c8abf21"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "1:22:34",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 13h22m27s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b4d48f33302b8c8abf22"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "1:23:16",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 13h23m16s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 13h32m6s Thời lượng :19s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b65dda7101b33a51ce0c"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:29:49",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:29:49 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b6dada7101b33a51ce0d"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:31:54",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 13h31m36s Thời lượng :17s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152b71cda7101b33a51ce0e"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:33:00",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 13h32m39s Thời lượng :20s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152bafbe1214476f483b8ac"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "1:49:31",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:49:31 PM",
+    "Gọi lại bệnh nhân : 13h52m39s Thời lượng :20s",
+    "Gọi lại bệnh nhân : 13h53m7s Thời lượng :16s",
+    "Gọi lại bệnh nhân : 13h53m33s Thời lượng :9s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152bbe8e1214476f483b8ad"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "1:53:28",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:53:28 PM",
+    "bệnh nhân đau thượng vị"
+  ]
+},{
+  "_id": {
+    "$oid": "6152bcb8e1214476f483b8ae"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:56:56",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:56:56 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152bce4e1214476f483b8af"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:57:40",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 13h57m15s Thời lượng :24s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152bd40e1214476f483b8b0"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "1:59:12",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 1:59:12 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c06bc618d89392471068"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:12:43",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:12:43 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c0d7596a8b36b2b53dc1"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:14:31",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:14:31 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c17e865ae339d2de6c12"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:17:18",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:17:18 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c1ab865ae339d2de6c13"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:18:03",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h17m50s Thời lượng :9s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c1f06a270e4353c9cdbc"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:19:12",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:19:12 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c20c6a270e4353c9cdbd"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:19:40",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h19m25s Thời lượng :14s",
+    "Gọi lại bệnh nhân : 14h19m54s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c2236a270e4353c9cdbe"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:20:03",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:20:03 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c23a6a270e4353c9cdbf"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:20:26",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:20:26 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c2566a270e4353c9cdc0"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:20:54",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h20m33s Thời lượng :20s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c25d6a270e4353c9cdc1"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:21:01",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:21:01 PM",
+    "Gọi lại bệnh nhân : 14h21m29s Thời lượng :8s",
+    "Gọi lại bệnh nhân : 14h22m49s Thời lượng :15s",
+    "Gọi lại bệnh nhân : 14h23m55s Thời lượng :7s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c38c81443ca8ed09ae30"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:26:04",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:26:04 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c38d81443ca8ed09ae31"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:26:05",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:26:05 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c47ad275a033441c73fc"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:30:02",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h29m23s Thời lượng :38s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c49ad275a033441c73fd"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:30:34",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h30m23s Thời lượng :10s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c55cd275a033441c73fe"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:33:48",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h33m12s Thời lượng :36s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c577d275a033441c73ff"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:34:15",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h33m59s Thời lượng :12s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c5bad275a033441c7400"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:35:22",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h34m35s Thời lượng :45s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c615d275a033441c7401"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:36:53",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h36m39s Thời lượng :12s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c670d275a033441c7402"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "2:38:24",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 14h37m54s Thời lượng :27s",
+    "Gọi lại bệnh nhân : 14h42m57s Thời lượng :34s",
+    "Gọi lại bệnh nhân : 14h43m55s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h44m3s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c7b8d275a033441c7403"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:43:52",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:43:52 PM",
+    "Gọi lại bệnh nhân : 14h44m38s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h44m51s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h45m19s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h45m30s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h45m37s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h45m49s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h46m50s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c816d275a033441c7404"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:45:26",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:45:26 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152c862d275a033441c7405"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "2:46:42",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 2:46:42 PM",
+    "Gọi lại bệnh nhân : 14h47m16s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h47m33s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h47m53s Thời lượng :0s",
+    "Gọi lại bệnh nhân : 14h50m17s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cc66d275a033441c7406"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:03:50",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h3m35s Thời lượng :14s",
+    "Gọi lại bệnh nhân : 15h5m49s Thời lượng :10s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cc70d275a033441c7407"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:04:00",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h3m57s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152ccced275a033441c7408"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:05:34",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h5m18s Thời lượng :15s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cd58d275a033441c7409"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:07:52",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 3:07:52 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cd59d275a033441c740a"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:07:53",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 3:07:53 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cd92d275a033441c740b"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:08:50",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 3:08:50 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cd97d275a033441c740c"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:08:55",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h8m53s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cdd7d275a033441c740d"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:09:59",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h9m39s Thời lượng :17s",
+    "Gọi lại bệnh nhân : 15h10m53s Thời lượng :10s",
+    "Gọi lại bệnh nhân : 15h11m24s Thời lượng :11s",
+    "Gọi lại bệnh nhân : 15h12m15s Thời lượng :0s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cdddd275a033441c740e"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:10:05",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 3:10:05 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152ce43d275a033441c740f"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:11:47",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 3:11:47 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152ce7fd275a033441c7410"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:12:47",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h12m33s Thời lượng :12s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cebad275a033441c7411"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:13:46",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h13m35s Thời lượng :11s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cecad275a033441c7412"
+  },
+  "Name": 100,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "3:14:02",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h13m53s Thời lượng :8s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152cee9d275a033441c7413"
+  },
+  "Name": 100,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "3:14:33",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "Gọi bệnh nhân : 15h14m11s Thời lượng :21s"
+  ]
+},{
+  "_id": {
+    "$oid": "6152dca5dc2af3e853683795"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "4:13:09",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:13:09 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152de3bdc2af3e853683796"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "4:19:55",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:19:55 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152de5bdc2af3e853683797"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "4:20:27",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:20:27 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152e582725fec9da057a615"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "4:50:58",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:50:58 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152e5ed725fec9da057a616"
+  },
+  "Name": 0,
+  "mathietbi": "203",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 01",
+  "tengiuongbenh": "Giường 3",
+  "tenBenhnhan": "Lê Thị Phương Thảo",
+  "thoigiannhan": "4:52:45",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:52:45 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152e61a725fec9da057a617"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "4:53:30",
+  "thoigiangoi": "null",
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:53:30 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai"
+  ]
+},{
+  "_id": {
+    "$oid": "6152f9e6b428478b7c3aee33"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "6:17:58",
+  "thoigiangoi": null,
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:17:58 PM"
+  ]
+},{
+  "_id": {
+    "$oid": "6152fa5fde4cd19522576677"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "6:19:59",
+  "thoigiangoi": "null",
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 4:53:30 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "gửi thông báo 6:19:59 PM",
+    "anh đàn quá đẹp trai",
+    "gửi thông báo 4:53:30 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "gửi thông báo 6:19:59 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai"
+  ]
+},{
+  "_id": {
+    "$oid": "6152fa70de4cd19522576678"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "6:20:16",
+  "thoigiangoi": "null",
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:20:16 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "Bác sĩ gọi lại :19:11:40thời gian gọi : 12s"
+  ]
+},{
+  "_id": {
+    "$oid": "615306a4ca3306f2a6f164ae"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "7:12:20",
+  "thoigiangoi": "null",
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 6:20:16 PM",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "anh đàn quá đẹp trai",
+    "Bác sĩ gọi lại :19:11:40thời gian gọi : 12s",
+    "gửi thông báo 7:12:20 PM",
+    "Bác sĩ gọi lại :19:12:36thời gian gọi : 13s"
+  ]
+},{
+  "_id": {
+    "$oid": "6153085fca3306f2a6f164af"
+  },
+  "Name": 123,
+  "mathietbi": "800",
+  "tenNhomtruc": "Nhóm Trực 01",
+  "TenPhongBenh": "Phòng Bệnh 02",
+  "tengiuongbenh": "Giường 14",
+  "tenBenhnhan": "Đỗ Trần Minh Anh",
+  "thoigiannhan": "7:19:43",
+  "thoigiangoi": "null",
+  "thoiluonggoi": 0,
+  "infoadd": [
+    "gửi thông báo 7:19:43 PM",
+    "Bác sĩ gọi lại :19:19:56thời gian gọi : 24s"
+  ]
+}]
